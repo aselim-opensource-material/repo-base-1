@@ -1,2 +1,3 @@
 file b
 - file changed on feature_a branch
+- text added on feature_b branch
