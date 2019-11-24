@@ -1,1 +1,2 @@
 file b
+- text added on feature_b branch
